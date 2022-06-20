@@ -4,8 +4,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 
 > SKILLS & EXPERIENCE
-    ☄️Python, Java 
-    ☄️Intermediate Knowledge on C, C++
+  ☄️Python, Java 
+  ☄️Intermediate Knowledge on C, C++
     
 > PROJECTS
 
