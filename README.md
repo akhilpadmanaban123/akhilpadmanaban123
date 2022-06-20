@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilpadmanaban123
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Integrated MCA 
+- 👀 I’m a developer
+- 🌱 I’m a student at Amrita University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
