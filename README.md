@@ -1,8 +1,29 @@
 - 👋 Hi, I’m @akhilpadmanaban123
 - 👀 I’m a developer
-- 🌱 I’m a student at Amrita University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+> SKILLS & EXPERIENCE
+    ☄️Python, Java 
+    ☄️Intermediate Knowledge on C, C++
+    
+> PROJECTS
+
+  ☄️Personal Assistance (FRIDAY) using Python
+  ☄️Health Application using JAVA (Android Studio), Collaborated with 3 of my friends
+  ☄️Android Applications
+  
+> EDUCATION
+
+ ☄️ Currently Pursuing Integrated Masters of Computer Applications.
+ ☄️ Amrita University
+ 
+> ACHIEVEMENTS
+
+ ☄️ Won Consolation prize in College National level Hackathon 
+ 
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
 
 <!---
 akhilpadmanaban123/akhilpadmanaban123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
