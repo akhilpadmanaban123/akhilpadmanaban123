@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akhilpadmanaban123
-- 👀 I’m a developer
-
+- 👀 I’m a Complete package
 ----------------------------------------------------------------------------------------------------------------------------------
 
 > SKILLS & EXPERIENCE
@@ -21,6 +20,7 @@
 > ACHIEVEMENTS
 
  ☄️ Won Consolation prize in College National level Hackathon 
+ ☄️ Got into top 10 in College National level codeing Hackathon Issued by ipsr solutions 
  
  
  ----------------------------------------------------------------------------------------------------------------------------------
