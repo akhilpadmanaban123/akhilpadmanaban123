@@ -10,6 +10,7 @@
 > PROJECTS
 
   ☄️Personal Assistance (FRIDAY) using Python
+  ☄️Online clothing store website ( Trendy Fashions) | (HTML, CSS, JS, PHP)
   ☄️Health Application using JAVA (Android Studio), Collaborated with 3 of my friends
   ☄️Android Applications
   
