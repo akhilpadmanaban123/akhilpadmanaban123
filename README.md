@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilpadmanaban123" alt="akhilpadmanaban123" /></a> </p>
 
-- 🔭 I’m currently working in **ICU MEDICALS**
+- 🔭 Developer at **ICU MEDICALS**
 
-- 🌱 I’m currently learning **Transformer Model in depth, NLP, Complex Deep Learning Models**
+- 🌱 Passionate on **GenAI and LLMsss**
 
-- 👯 I’m looking to collaborate on **Generating Text**
+- 👯 I’m looking to collaborate on **Agentic AIsss**
 
 - 👨‍💻 All of my projects are available at [https://codeitup1234.wixsite.com/akhil-padmanaban123](https://codeitup1234.wixsite.com/akhil-padmanaban123)
 
