@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilpadmanaban123" alt="akhilpadmanaban123" /></a> </p>
 
-- 🔭 Developer at **ICU MEDICALS**
+- 🔭 Software Engineer I at **ICU MEDICALS**
 
 - 🌱 Passionate on **GenAI and LLMsss**
 
