@@ -1,39 +1,50 @@
-<h1 align="center">Hi 👋, I'm Akhil Padmanaban</h1>
-<h3 align="center">A Passionate Generative AI Enthusiast</h3>
+<a href="https://akhilpadmanaban123.github.io/portfoliome/">
+  <img src="assets/banner.svg" alt="Hi, I'm Akhil. I build AI agents that hold up in the real world." width="100%">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilpadmanaban123&label=Profile%20views&color=0e75b6&style=flat" alt="akhilpadmanaban123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilpadmanaban123" alt="akhilpadmanaban123" /></a> </p>
-
-- 🔭 Software Engineer I at **ICU MEDICALS**
-
-- 🌱 Passionate on **GenAI and LLMsss**
-
-- 👯 I’m looking to collaborate on **Agentic AIsss**
-
-- 👨‍💻 All of my projects are available at [https://codeitup1234.wixsite.com/akhil-padmanaban123](https://codeitup1234.wixsite.com/akhil-padmanaban123)
-
-- 📝 I regularly write articles on [https://medium.com/@codeitup1234](https://medium.com/@codeitup1234)
-
-- 💬 Ask me about **Machine Learning Models, Generative AI, LLM**
-
-- 📫 How to reach me **akhilpadmanaban123@gmail.com**
-
-- ⚡ Fun fact **I am writing my future !**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilpadmanaban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilpadmanaban/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/akhilpadmanaban123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/akhilpadmanaban123" height="30" width="40" /></a>
-<a href="https://instagram.com/@akhil_padmanaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@akhil_padmanaban" height="30" width="40" /></a>
-<a href="https://medium.com/@codeitup1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codeitup1234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codewasepic9114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codewasepic9114" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akhilpadmanaban123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akhilpadmanaban123/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://akhilpadmanaban123.github.io/portfoliome/"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/akhilpadmanaban/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/akhilpadmanaban123/">LeetCode</a> ·
+  <a href="https://www.youtube.com/@codewasepic9114">YouTube</a> ·
+  <a href="https://medium.com/@codeitup1234">Medium</a> ·
+  <a href="https://www.kaggle.com/akhilpadmanaban123">Kaggle</a> ·
+  <a href="mailto:akhilpadmanaban123@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a software engineer at ICU Medical. I started in the C++ firmware of infusion pumps and moved to the AI team, where I design and build agents, RAG pipelines and chatbot backends end to end.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilpadmanaban123&show_icons=true&locale=en&layout=compact" alt="akhilpadmanaban123" /></p>
+### What I'm building
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilpadmanaban123&show_icons=true&locale=en" alt="akhilpadmanaban123" /></p>
+- **A conversational package upload service.** A chatbot that lets clinicians push drug-library settings and software updates to infusion pumps. FastAPI, Ollama, LangChain, RAG, with session handling for concurrent users and a 1,500-case test suite.
+- **A codebase agent.** A local Qwen coder model with tools to look up functions and classes, read them, and trace callers and callees across a C++ codebase, backed by Cognee graph memory.
+- **Log analysis with RAG.** Root-causing power and battery issues across 100K–300K lines of device logs, using Drain3 template mining and LanceDB.
+
+### Selected repositories
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [InfusionDeviceLogAnalyser](https://github.com/akhilpadmanaban123/InfusionDeviceLogAnalyser) | Log analysis agent for critical power events in embedded devices | Python · Qwen · Drain3 · LanceDB |
+| [LanceDBExplore](https://github.com/akhilpadmanaban123/LanceDBExplore) | Hands-on exploration of vector databases | Python · LanceDB |
+| [QwenBasicTrain](https://github.com/akhilpadmanaban123/QwenBasicTrain) | Training a small Qwen model for sentiment analysis | Python · Jupyter |
+| [PremierLeaguePredictor](https://github.com/akhilpadmanaban123/PremierLeaguePredictor) | ML models that predict Premier League outcomes | Python · Jupyter |
+| [BankVisionAI](https://github.com/akhilpadmanaban123/BankVisionAI) | Natural-language customer lookups for a banking portal | Python · Gemini |
+| [reclaim-app](https://github.com/akhilpadmanaban123/reclaim-app) | App that helps people quit smoking and drinking | Dart · Flutter |
+| [fortun0](https://github.com/akhilpadmanaban123/fortun0) | Financial management with AI-based planning | Kotlin |
+
+### Toolkit
+
+```text
+AI & LLM      AI agents · LangGraph · LangChain · RAG · function calling · Ollama · Cognee · local LLMs (Qwen)
+Languages     Python · C++ · SQL · Bash · C#/.NET (working)
+Backend       FastAPI · Flask · Redis · PostgreSQL · MongoDB · LanceDB
+Engineering   Pytest · Docker · Jenkins · Git · Linux · state machines · concurrency
+```
+
+### Recognition
+
+- Smart India Hackathon: **Grand Finalist**, top 5 of 500 submissions (2023)
+- Hack-n-Lead National Hackathon: **2nd prize** of 52 teams (2023)
+- Codathon, AMC2 Coding Club: **1st prize** of 36 teams (2023)
+
+<p align="center"><sub>The full story, with a 3D scene and an agent you can question, is on <a href="https://akhilpadmanaban123.github.io/portfoliome/">my portfolio</a>.</sub></p>
