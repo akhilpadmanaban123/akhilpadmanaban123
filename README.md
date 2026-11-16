@@ -24,6 +24,7 @@ I'm a software engineer at ICU Medical. I started in the C++ firmware of infusio
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [portfoliome](https://github.com/akhilpadmanaban123/portfoliome) | My portfolio: a 3D particle scene and a retrieval agent you can question | JavaScript · Three.js |
 | [InfusionDeviceLogAnalyser](https://github.com/akhilpadmanaban123/InfusionDeviceLogAnalyser) | Log analysis agent for critical power events in embedded devices | Python · Qwen · Drain3 · LanceDB |
 | [LanceDBExplore](https://github.com/akhilpadmanaban123/LanceDBExplore) | Hands-on exploration of vector databases | Python · LanceDB |
 | [QwenBasicTrain](https://github.com/akhilpadmanaban123/QwenBasicTrain) | Training a small Qwen model for sentiment analysis | Python · Jupyter |
